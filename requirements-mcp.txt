@@ -1,0 +1,2 @@
+# Optional AI client integration; core reminder runs without this SDK.
+mcp>=1.20,<2
